@@ -22,7 +22,7 @@
 
 ```Java
 
-        public class Greengrocer{
+public class Greengrocer{
 
         public static void main(String[] args) {
 
