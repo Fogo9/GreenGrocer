@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Greengrocer{
+    
     public static void main(String[] args) {
 
         double Pear = 2.14, Apple = 3.67, Tomato = 1.11, Banana = 0.95, Aubergine = 5.00;
