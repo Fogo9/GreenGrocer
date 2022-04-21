@@ -33,5 +33,6 @@ public class Greengrocer{
         double amount = (Pear * 2.14) + (Apple * 3.67) + (Tomato * 1.11) + (Banana * 0.95) + (Aubergine * 5.00);
 
         System.out.println("Total Amount : " + amount + " TL ");
+        
     }
 }
