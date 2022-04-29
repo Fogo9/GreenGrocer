@@ -1,14 +1,14 @@
 # **GREENGROCER**
 
-# Information
+## INFORMATION
 
 * **You can find out the total amount by entering the kilograms of the products.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The kilogram prices of the products were determined.
 
@@ -18,9 +18,7 @@
 
 * The total amount is printed in TL.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -77,13 +75,13 @@ public class Greengrocer{
 ```
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/GreenGrocer.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
